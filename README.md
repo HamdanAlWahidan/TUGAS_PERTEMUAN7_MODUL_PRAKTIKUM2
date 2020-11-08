@@ -98,7 +98,7 @@ Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendap
 
 Di tugas ini, saya di suruh membuat program dimana data akhirnya menampilkan bilangan terbesar.
 
-untul itu saya menulis syntax seperti ini:
+untuk itu saya menulis syntax seperti ini:
 
 ```
 a = int(input("Masukkan Nilai A : "))
