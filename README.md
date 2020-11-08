@@ -3,7 +3,7 @@ ________________________________________________________________________________
 Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu diantaranya:
 
 ## TUGAS MODUL PRAKTIKUM 2
-## * LATIHAN 1
+* LATIHAN 1
 
 Pada tugas ini, saya diminta untuk membuat sebuah program menentukan nilai akhir
 Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
@@ -41,7 +41,7 @@ Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendap
 
 ![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7_MODUL_PRAKTIKUM2/blob/main/Modul%20Praktikum%202/Latihan1.png) <br>
 
-## * LATIHAN 2
+* LATIHAN 2
 
 Di tugas latihan kedua ini, saya diminta untuk membuat sebuah program meanmpilkan status gaji karyawan. Maka saya memasukan syntax:
 ```
@@ -69,7 +69,7 @@ Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendap
 
 ![Foto Lat2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN7_MODUL_PRAKTIKUM2/blob/main/Modul%20Praktikum%202/Latihan2.png) <br>
 
-## * LATIHAN 3
+* LATIHAN 3
 
 Di latihan 3 ini saya di suruh membuat sebuah program dimana ketika kita menginput kan data, outputnya akan mengahasilkan outputan dengan nilai data tersebut merupakan nilai benar/salah, dengan syarat bawah 2 bilangan tersebut hasilnya sama dengan yang lain nya (sederhana nya 2 bilangan harus bernilai sama)
 
